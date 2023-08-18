@@ -1,5 +1,0 @@
-{{#user}
-Name: Tushar Sethi
-Skills: Machine Learning,HTML,CSS,C++,Python
-Email: tusharsethi025@gmail.com
-{{/user}}
